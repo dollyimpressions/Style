@@ -97,6 +97,27 @@
 			"url": "https://raw.githubusercontent.com/dollyimpressions/Style/master/Style%209.jpg",
 			"dimensions": "2200 x 1329",
 			"copyright": ""
+	        },
+		{
+			"name": "Crystals",
+			"author": "D O L L Y",
+			"url": "https://raw.githubusercontent.com/dollyimpressions/Style/master/Crystals.jpg",
+			"dimensions": "2560 x 1707",
+			"copyright": ""
+		},
+		{
+			"name": "SantaGlow",
+			"author": "D O L L Y",
+			"url": "https://raw.githubusercontent.com/dollyimpressions/Style/master/SantaGlow.jpg",
+			"dimensions": "2560 x 2029",
+			"copyright": ""
+		},
+		{
+			"name": "SnowyNight",
+			"author": "D O L L Y",
+			"url": "https://raw.githubusercontent.com/dollyimpressions/Style/master/SnowyNight.JPG",
+			"dimensions": "2560 x 1477",
+			"copyright": ""
 		}
 	]
 }
